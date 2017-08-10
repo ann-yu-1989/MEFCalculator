@@ -1,0 +1,5 @@
+D:\Project\GitRepositories\MEFCalculator\MEFCalculator\MEFCalculator\Extensons\ExtendedOperations.dll
+D:\Project\GitRepositories\MEFCalculator\MEFCalculator\MEFCalculator\Extensons\ExtendedOperations.pdb
+D:\Project\GitRepositories\MEFCalculator\MEFCalculator\ExtendedOperations\obj\Debug\ExtendedOperations.csprojResolveAssemblyReference.cache
+D:\Project\GitRepositories\MEFCalculator\MEFCalculator\ExtendedOperations\obj\Debug\ExtendedOperations.dll
+D:\Project\GitRepositories\MEFCalculator\MEFCalculator\ExtendedOperations\obj\Debug\ExtendedOperations.pdb
